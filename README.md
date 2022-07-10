@@ -5,4 +5,4 @@ Tenemos dos archivos, uno con el contenido de los tweets y otro con unas sentimi
 La idea es procesar los tweets y asociar una puntuación a cada uno, esta puntuación indica si la publicaci´çon es positiva o negativa.
 Luego jugamos un poco más con el procesamiento en un segundo ejercicio.
 
-Más adelante publicaré algo con Tweepy, pero por ahora no consigo enlazarlo bien. 
+Más adelante publicaré algo con Tweepy, pero por ahora no consigo enlazarlo bien. ✌️
